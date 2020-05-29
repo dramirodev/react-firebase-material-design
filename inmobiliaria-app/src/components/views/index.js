@@ -1,1 +1,1 @@
-export { default } from './ListaInmuebles';
+export { default } from "./ListaInmuebles/index";
